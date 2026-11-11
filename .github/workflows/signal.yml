@@ -1,4 +1,4 @@
-  name: gold-signals
+name: gold-signals
 
 on:
   schedule:
